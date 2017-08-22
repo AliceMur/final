@@ -1,0 +1,45 @@
+input[type=text] {
+    width: 130px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    background-image: url('searchicon.png');
+    background-position: 10px 10px;
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+}i
+input[type=text]:focus {
+    width: 100%;
+}
+.center{
+  background-color: #CFD8DC;
+  margin:15% 30%;
+  border: solid #B0BEC5 60px;
+}
+#fix{
+  margin:40%;
+}
+#move{
+  margin-left: 10%;
+}
+p{
+  text-align: center;
+}
+body{
+  background-color: #78909C;
+}
+h3{
+  margin-left: 23%;
+}
+.button{
+  background-color: #78909C;
+  border: 0px;
+  padding:10px 50px;
+  margin-left: 35%;
+  margin-bottom: 10%;
+  font-size: 15px;
+}
