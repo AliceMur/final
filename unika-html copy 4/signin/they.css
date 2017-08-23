@@ -16,8 +16,8 @@ input[type=text]:focus {
     width: 100%;
 }
 .center{
-  background-color: #CFD8DC;
-  margin:30% 35%;
+  background-color: #BDBDBD;
+  margin:20% 40%;
   opacity: 0.8;
   filter: alpha(opacity=60); /* For IE8 and earlier */
 }
@@ -25,7 +25,7 @@ input[type=text]:focus {
   margin:40%;
 }
 #move{
-  margin-left: 10%;
+  margin-left: 4%;
 }
 p{
   text-align: center;
@@ -37,10 +37,10 @@ h3{
   margin-left: 23%;
 }
 .button{
-  background-color: #78909C;
+  background-color: #757575;
   border: 0px;
   padding:10px 50px;
-  margin-left: 35%;
+  margin-left: 4%;
   margin-bottom: 10%;
   font-size: 15px;
 }
