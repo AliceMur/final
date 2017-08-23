@@ -24,14 +24,16 @@ $br: 4px;*/
 html {
 	overflow-y: scroll;
 }
-
+	
 body {
-  background:#78909C;
+  background-color:url("https://c1.staticflickr.com/3/2175/4510333543_eba1d157e8_b.jpg");
   font-family: 'Titillium Web', sans-serif;
 }
 
 .button-block{
-  background-color: #78909C;
+  background-color: #757575;
+  opacity: 0.8;
+  filter: alpha(opacity=60); /* For IE8 and earlier */	
 }
 a {
   text-decoration:none;
@@ -112,10 +114,7 @@ h1 {
     padding:10px 10px 10px 10px;
     margin: 10px 0 20px 16px;
 }
-.form{
-  background-color:#CFD8DC;
-  border: solid #B0BEC5 60px;
-}
+
 
 label {
   position:absolute;
