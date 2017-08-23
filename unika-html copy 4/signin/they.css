@@ -17,8 +17,9 @@ input[type=text]:focus {
 }
 .center{
   background-color: #CFD8DC;
-  margin:15% 30%;
-  border: solid #B0BEC5 60px;
+  margin:30% 35%;
+  opacity: 0.8;
+  filter: alpha(opacity=60); /* For IE8 and earlier */
 }
 #fix{
   margin:40%;
@@ -30,7 +31,7 @@ p{
   text-align: center;
 }
 body{
-  background-color: #78909C;
+  background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTthirRjQdk_QTndmk93CgcpMY60LR1U1wUKIuNxr6vBHrLlHmqKg");
 }
 h3{
   margin-left: 23%;
